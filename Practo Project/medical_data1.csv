@@ -1,0 +1,71 @@
+Doctor_name,Specialization,Experience,City_name,Area,Hospital_name,Consultation_fee,Recommendation
+Dr. P.Uma Devi,Dentist,17,Chennai,"Valasaravakkam,",Uma's Dental Care,200,99% 
+Dr. T. Sivasankari,Dentist,19,Chennai,"Mogappair,",Harsini Dental Clinic,200,93% 
+Dr. Sudhakar,Dentist,23,Chennai,"Royapettah,",Gift Smile Dental Clinic,500,97% 
+Dr. Abhilash Bhaskaran,Dentist,25,Chennai,"Perumbakkam,",Gleneagles Global Health City,700,99% 
+Dr. Mathan Mohan,Dentist,23,Chennai,"Vanagaram,",Apollo Speciality Hospital,800,100% 
+Dr. E. Sarath Chandar,Dentist,27,Chennai,"Thiruvanmiyur,",Sarath Dental Clinic,400,99% 
+Dr. Balaji K,Dentist,26,Chennai,"Anna Nagar,",KB DENTAL CLINIC ORTHODONTIC AND IMPLANT CENTER,600,100% 
+Dr. Prem Alex Lawrence,Dentist,16,Chennai,"Thoraipakkam,",Gold Dental Care,300,98% 
+Dr. Udhayaraja,Dentist,42,Chennai,"T Nagar,",Dr. Udhayarajas Dental & Orthodontic Centre,500,99% 
+Dr. Aarthi Praveen,Dentist,16,Chennai,"Navalur,",Dr Aarthi Dental Care Medinspire,300,100% 
+Dr. Meera Ragavan,Gynecologist/Obstetrician,26,Chennai,"Valasaravakkam,",Apollo Spectra Hospital,1000,88% 
+Dr. Radhika Gobalakichenin,Gynecologist/Obstetrician,25,Chennai,"Mogappair,",Apollo Spectra Hospital,800,100% 
+Dr. Srikala Prasad,Gynecologist/Obstetrician,31,Chennai,"Royapettah,",Apollo Speciality Hospital,1000,98% 
+Dr. Padmapriya Vivek,Gynecologist/Obstetrician,20,Chennai,"Perumbakkam,",Gleneagles Global Health City,600,91% 
+Dr. Shantha Rama Rao,Gynecologist/Obstetrician,49,Chennai,"Vanagaram,",Thulasi Krishna Nursing Home,500,94% 
+Dr. Chitra Shankar,Gynecologist/Obstetrician,26,Chennai,"Thiruvanmiyur,",Pearl Singapore Fertility Centre and Research Institute,1000,97% 
+Dr. Suvarna P,Gynecologist/Obstetrician,27,Chennai,"Anna Nagar,",Apollo Speciality Hospital,800,100% 
+Dr. Nithyaa Ramamurthy,Gynecologist/Obstetrician,46,Chennai,"Thoraipakkam,",Fortis Malar Hospital,600,91% 
+Dr. Nirmala Jayashankar,Gynecologist/Obstetrician,36,Chennai,"T Nagar,",Apollo First Med Hospitals,700,91% 
+Dr. Florence Vasantha Praba,Gynecologist/Obstetrician,22,Chennai,"Navalur,",Cherub Fertility Clinic,400,96% 
+Dr. Subhashini Mohan,General Physician,16,Chennai,"Alwarpet,",Apollo Spectra Hospital,700,96% 
+Dr. Sowmya Dogiparthi,General Physician,13,Chennai,"Alwarpet,",Apollo Spectra Hospital,1000,97% 
+Dr. Deepthi Motiram,General Physician,14,Chennai,"Velachery,",Apollo Clinic,600,93% 
+Dr. Jyothsna,General Physician,11,Chennai,"Saligramam,","Curves Cosmetic Surgery, Skin & Laser Clinic",700,96% 
+Dr. Sivasankri Jeysankar,General Physician,14,Chennai,"Thoraipakkam,",Vee Vee Skin & Hair Clinic,400,100% 
+Dr. Col Rajagopal A,General Physician,60,Chennai,"Greams Road,",Apollo Hospital,1000,100% 
+Dr. Senthil Sivaprakasam,General Physician,17,Chennai,"Kilpauk,",Radiance Skin And Hair Care,600,99% 
+Dr. Aarthi Lakshmanan,General Physician,19,Chennai,"MRC Nagar,",Aarthi Skin Care Clinic,750,93% 
+Dr. Ganga Ravikumar,General Physician,32,Chennai,"Adyar,",Dermis Skin & Hair Clinic,700,96% 
+Dr. R. Sowmiya,General Physician,20,Chennai,"Mogappair East,",Dr. Vijay's Hospital,300,97% 
+Dr. Sridevi Anantharaman,Dermatologist,22,Chennai,"Vanagaram,",Apollo Speciality Hospital,800,100% 
+Dr. Raj Madhangi,Dermatologist,9,Chennai,"Alwarpet,",Apollo Spectra Hospital,700,100% 
+Dr. Anand Gnanaraj,Dermatologist,30,Chennai,"Vanagaram,",Apollo Speciality Hospital,800,67% 
+Dr. Mythili Rajgopalan,Dermatologist,33,Chennai,"Alwarpet,",Apollo Spectra Hospital,700,100% 
+Dr. T K Shanmugaraj,Dermatologist,30,Chennai,"Vanagaram,",Apollo Speciality Hospital,800,100% 
+Dr. T. Vijay,Dermatologist,24,Chennai,"Mogappair East,",Dr. Vijay's Hospital,400,88% 
+Dr. Srimathy Venkatesh,Dermatologist,36,Chennai,"Alwarpet,",Apollo Spectra Hospital,700,86% 
+Dr. Aafrin Shabbir,Dermatologist,11,Chennai,"Perumbakkam,",Gleneagles Global Health City,500,100% 
+Dr. Vinod Prem Anand,Dermatologist,22,Chennai,"Adyar,",Fortis Malar Hospital,700,100% 
+Dr. A Joseph Navaseelan,Dermatologist,44,Chennai,"Vanagaram,",Apollo Speciality Hospital,1000,97% 
+Dr. Govindaraj,Ear-Nose-Throat,30,Chennai,"Vanagaram,",Apollo Speciality Hospital,600,100% 
+Dr. Prabha Karthik,Ear-Nose-Throat,19,Chennai,"Alwarpet,",Apollo Spectra Hospital,800,96% 
+Dr. U. Sanjay,Ear-Nose-Throat,31,Chennai,"Anna Nagar,",Apollo Medical Center,750,91% 
+Dr. Venkatakarthikeyan Chokkalingam,Ear-Nose-Throat,24,Chennai,"Greams Road,",Apollo Hospital,1000,61% 
+Dr. A.Muraleedharan,Ear-Nose-Throat,36,Chennai,"Perumbakkam,",Gleneagles Global Health City,700,70% 
+Dr. Babu Manohar,Ear-Nose-Throat,37,Chennai,"Greams Road,",Apollo Hospital,1500,97% 
+Dr. Niraj Joshi,Ear-Nose-Throat,20,Chennai,"Mylapore,",ENT Head and Neck Care,800,86% 
+Dr. Shankar.M.N,Ear-Nose-Throat,35,Chennai,"Adyar,",Fortis Malar Hospital,600,99% 
+Dr. A. Sudha,Ear-Nose-Throat,22,Chennai,"Kilpauk,",The Head and Neck Centre & Hospital,500,86% 
+Dr. Ramakrishnan,Ear-Nose-Throat,22,Chennai,"Adyar,",Fortis Malar Hospital,600,98% 
+Dr. N. Saravanan,Homoeopath,17,Chennai,"Tambaram,",Priyam Clinic,300,100% 
+Dr. R. Vijayashanthini,Homoeopath,15,Chennai,"Rajakilpakkam,",Sushaanth Homoeo Clinic,400,75% 
+Dr. L Mathuvenkatesan,Homoeopath,23,Chennai,"Ashok Nagar,",Dr Batra's Positive Health Clinic Pvt Ltd,450,99% 
+Dr. Prof. G Nirmal (PhD),Homoeopath,20,Chennai,"Ayanavaram,",Niveena Homoeo Clinic,1500,100% 
+Dr. Meena,Homoeopath,2,Chennai,"Vadapalani,",Dr. Meena's Homeo Clinic,400,100% 
+Dr. Berlin  Nadhiya,Homoeopath,10,Chennai,"Porur,",Dr Batra's Positive Health Clinic Pvt Ltd,450,100% 
+Dr. Nidhi Dube,Homoeopath,13,Chennai,"Velachery,",Dr Batra's Positive Health Clinic Pvt Ltd,450,88% 
+Dr. Saradha Kumari,Homoeopath,40,Chennai,"Kodambakkam,",Dr. Sharadha Kumari Homeopathy,500,100% 
+Dr. Ashok Kumar,Homoeopath,13,Chennai,"Tambaram East,",Shanthi Homoeo Clinic,800,95% 
+Dr. M Nithya,Homoeopath,16,Chennai,"Alwarpet,",Dr Batra's Positive Health Clinic Pvt Ltd,450,97% 
+Dr. Rajesh Verma,Ayurveda,27,Chennai,"Vadapalani,",Bliss Medicare Centre,600,96% 
+Dr. D Jayashree,Ayurveda,38,Chennai,"West Mambalam,",Shree Ayurvedic Multispeciality Hospital,750,100% 
+Dr. Poonam Verma,Ayurveda,26,Chennai,"Vadapalani,",Bliss Medicare Centre,600,98% 
+Dr. Raniya Sulthana,Ayurveda,14,Chennai,"Mogappair West,",Arya Vaidya Sala Kottakkal,750,98% 
+Dr. T. Vamsi Latha,Ayurveda,20,Chennai,"West Mambalam,",Shree Ayurvedic Multispeciality Hospital,500,100% 
+Dr. D Srikrishna,Ayurveda,11,Chennai,"West Mambalam,",Shree Ayurvedic Multispeciality Hospital,500,100% 
+Dr. Uday Kiran,Ayurveda,24,Chennai,"West Mambalam,",Shree Ayurvedic Multispeciality Hospital,750,100% 
+Dr. M Vishnupriya,Ayurveda,14,Chennai,"Selaiyur,",Aditti Ayurveda And Panchakarma Clinic,300,95% 
+Dr. Shamna. R,Ayurveda,14,Chennai,"Ekkaduthangal,",Kotakkal Arya Vaidya Sala,300,95% 
+Dr. Rekha,Ayurveda,14,Chennai,"Madambakkam,",Ayurmithra Ayurveda Clinic,200,97% 

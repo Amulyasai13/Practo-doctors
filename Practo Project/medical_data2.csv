@@ -1,0 +1,71 @@
+Doctor_name,Specialization,Experience,City_name,Area,Hospital_name,Consultation_fee,Recommendation
+Dr. Sarvesh R Jaiswal,Dentist,14,Pune,"Baner,",Tooth Galaxy Dental Care and Implant Centre,300,98% 
+Dr. Anushree S. Jaiswal,Dentist,11,Pune,"Baner,",Tooth Galaxy Dental Care and Implant Centre,300,99% 
+Dr. Dhaval Oswal,Dentist,14,Pune,"Bibvewadi,",Oswals Dental and Orthodontic Care,100,96% 
+Dr. Mrunal Godse,Dentist,14,Pune,"Kothrud,",Health Point Polyclinic,300,96% 
+Dr. Ashwini Dalavi,Dentist,18,Pune,"Sasanenagar,",Om Dental Clinc,300,98% 
+Dr. Sharath Shetty,Dentist,18,Pune,"Pimpri-Chinchwad,",Dr Shetty's Dental Speciality Centre,100,93% 
+Dr. Rakesh R. Prasad,Dentist,28,Pune,"Pimpri-Chinchwad,",Dr.R.R.Prasad Dental Clinic,500,96% 
+Dr. Ratnika Agarwal,Dentist,10,Pune,"Kharadi,",Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,300,98% 
+Dr. Pragati Mirikar,Dentist,15,Pune,"Wakad,",Dental Care & Endodontic Center,200,99% 
+Dr. Sandeep Bhirud,Dentist,33,Pune,"Pimpri-Chinchwad,",Dr. Bhirud's Sweet Smile Dental Clinic,500,98% 
+Dr. Ramit Kamate,Gynecologist/Obstetrician,15,Pune,"Balewadi,",Practo Care Surgeries,900,89% 
+Dr. Pratibha Chavan,Gynecologist/Obstetrician,18,Pune,"Baner,",Galaxy Hospital,600,96% 
+Dr. Sunita Kale,Gynecologist/Obstetrician,31,Pune,"Kothrud,",Shree Maternity Nursing Home,700,98% 
+Dr. Jagrati Laad,Gynecologist/Obstetrician,18,Pune,"Wakad,",Wombs Fertility and Reproductive Health Clinic,600,93% 
+Dr. Mugdha Joshi,Gynecologist/Obstetrician,17,Pune,"Wakad,",Shri Waman Ganesh Clinic,500,99% 
+Dr. Lavina Batra,Gynecologist/Obstetrician,17,Pune,"Viman Nagar,",Life Care Clinic,500,80% 
+Dr. Sunita Umberkar,Gynecologist/Obstetrician,17,Pune,"Kothrud,",Dr. Sunita Umberkar's Women's Clinic,500,99% 
+Dr. Asha Gavade,Gynecologist/Obstetrician,17,Pune,"Bavdhan,",Umang Hospital,500,97% 
+Dr. Manisha Munemane,Gynecologist/Obstetrician,27,Pune,"Pimple Saudagar,",Vatsalya Women's World,600,94% 
+Dr. Mohita Goyal,Gynecologist/Obstetrician,22,Pune,"Baner,",Mohita Poly Clinic,600,95% 
+Dr. Arunesh Dutt Upadhyay,General Physician,36,Pune,"Tingare Nagar,",Dr. Upadhyay's Clinic,750,96% 
+Dr. Milind Kulkarni,General Physician,17,Pune,"Pimpri-Chinchwad,",Kulkarni Clinic,600,95% 
+Dr. Mushfiya Bahrainwala,General Physician,17,Pune,"Aundh,",Apollo Clinic,600,100% 
+Dr. Mukesh Budhwani,General Physician,20,Pune,"Vishrantwadi,",Apollo Clinic,600,86% 
+Dr. Amit Sakaria,General Physician,18,Pune,"Aundh,",Prudent International Health Clinic,600,94% 
+Dr. Vinod Midha,General Physician,38,Pune,"Vishrantwadi,",Dr Midha's National Clinic,500,97% 
+Dr. Prashant. A. Mutalik,General Physician,25,Pune,"Magarpatta City,",Dr. Gandhi's- Dr. Mutalik's Clinic,200,97% 
+Dr. Shilpa Dane,General Physician,17,Pune,"Viman Nagar,",Dev Clinic,500,84% 
+Dr. Narayan Survase,General Physician,25,Pune,"Kalyani Nagar,",NRS Hospital,600,83% 
+Dr. Ravindra Chhajed,General Physician,27,Pune,"Market Yard,",Harsh Hospital,700,98% 
+Dr. Hina Kherajani,Dermatologist,20,Pune,"Pimple Saudagar,",Aura Skin And Laser Clinic,600,94% 
+Dr. Rajshree Patil,Dermatologist,24,Pune,"Aundh,",Kimaya Skin Clinic,500,90% 
+Dr. Sonal Chavan,Dermatologist,16,Pune,"Pimple Saudagar,",Dr. Sonnal Chavaan Aesthetic Clinic,600,90% 
+Dr. V J Tannu,Dermatologist,44,Pune,"Budhwar Peth,",Dr Tannu's Komal Skin Clinic,750,84% 
+Dr. Anagha Dudhbhate,Dermatologist,33,Pune,"Erandwane,",Dr. Dudhbhate's Skin Clinic,800,98% 
+Dr. Sadhana Jadhavar,Dermatologist,15,Pune,"Pimpri-Chinchwad,","Radiance Skin,Hair, Laser & Wellness Center",400,93% 
+Dr. Hetal Jobanputra,Dermatologist,17,Pune,"Baner,",Radiant Skin and Hair Clinic,600,97% 
+Dr. K R Chandvania,Dermatologist,43,Pune,"Pimpri-Chinchwad,",Pallavi Laser Centre,900,83% 
+Dr. Pradeep Kumari,Dermatologist,19,Pune,"Viman Nagar,",Practo Care Surgeries,700,96% 
+Dr. Pallavi Ahire Shelke,Dermatologist,15,Pune,"Baner,",SkinEthics Skin Clinic & Dermatosurgery Center,600,97% 
+Dr. Sumitpal Bhatti,Ear-Nose-Throat,32,Pune,"Kalyani Nagar,",Prudent International Health Clinic,500,82% 
+Dr. Ajay Kothadiya,Ear-Nose-Throat,29,Pune,"Baner,",Kothadiya Ent Clinic,600,96% 
+Dr. Sarika Sonawane,Ear-Nose-Throat,15,Pune,"Shivajinagar,",Healing Touch Clinic,600,98% 
+Dr. Poorva Lunavat,Ear-Nose-Throat,14,Pune,"Pimpri-Chinchwad,",Lunavat Clinic,600,96% 
+Dr. Ajinkya Kelkar,Ear-Nose-Throat,11,Pune,"Wakad,",Auricle ENT Care Clinic,700,92% 
+Dr. Swati Kodur Patil,Ear-Nose-Throat,11,Pune,"JM Road,",Citicare Hospital,600,100% 
+Dr. Dushyant Khedikar,Ear-Nose-Throat,21,Pune,"Viman Nagar,",Dr. Khedikar's ENT and Head Neck Surgery Clinic,500,99% 
+Dr. Divya Sawant,Ear-Nose-Throat,6,Pune,"Satara Road,",Apollo Clinic,500,75% 
+Dr. Kavita Choudhari,Ear-Nose-Throat,28,Pune,"Kharadi,",Sanjivani Vitalife Hospital,500,94% 
+Dr. Manoj M.Bauskar,Ear-Nose-Throat,18,Pune,"Kharadi,",Siddhivinayak Advanced ENT Care,500,92% 
+Dr. Vaseem Choudhary,Homoeopath,13,Pune,"Hadapsar,",Homeo Care Clinic,300,97% 
+Dr. Nidhi Pandya,Homoeopath,15,Pune,"Pimple Saudagar,",Platinum Family Clinic,1000,95% 
+Dr. Rajshree Pokharna,Homoeopath,33,Pune,"Kharadi,",Rohan Clinic,500,97% 
+Dr. Girish Tathed,Homoeopath,27,Pune,"Pimpri-Chinchwad,",Dr. Tathed's Homeopathy,700,95% 
+Dr. Shailesh Doshi,Homoeopath,22,Pune,"Sadashiv Peth,",HomeoCure™ Homeopathy Clinic,500,97% 
+Dr. Priti V. Deokar,Homoeopath,28,Pune,"Range Hill,",Dyandeep Acupuncture and Homeopathic Clinic,500,97% 
+Dr. Swati Kulkarni,Homoeopath,21,Pune,"Magarpatta City,",Panacea Homoeopathic Speciality Center,500,96% 
+Dr. Sarika Doshi,Homoeopath,20,Pune,"Sadashiv Peth,",HomeoCure™ Homeopathy Clinic,500,98% 
+Dr. Apeksha Devisetty,Homoeopath,20,Pune,"Senapati Bapat Marg,",Dr.Devisetty Healing Touch,500,97% 
+Dr. Kavita Bhapkar,Homoeopath,13,Pune,"Hadapsar,",Sparsh Homoeopathic Clinic and Polyclinic,500,98% 
+Dr. Sanjay Erande,Ayurveda,16,Pune,"Bhosari,",Dr Erande's Vedsuman Men & Women's clinic,1000,97% 
+Dr. Shruty Dumbre,Ayurveda,29,Pune,"Sinhagad Road,",Dr. Shruty Dumbre's Shatayu Ayurveda And Panchakar,500,88% 
+Dr. Narendra Ashok Shekade,Ayurveda,15,Pune,"Kharadi,",Ayush  Ayurved,300,99% 
+Dr. Sagar Pampattiwar,Ayurveda,15,Pune,"Baner,",Aatreya Ayurvedic Panchakarma  & Infertility Clinic,300,98% 
+Dr. Shraddha Joshi,Ayurveda,14,Pune,"Kothrud,",Dharmadhikari Ayurveda Clinic & Research,300,96% 
+Dr. Swapnil Dharmadhikari,Ayurveda,13,Pune,"Kothrud,",Dharmadhikari Ayurveda Clinic & Research,500,97% 
+Dr. Manoj Madhukar Deshpande,Ayurveda,26,Pune,"Shivajinagar,",Kalpataru Ayurvediya Chikitsalaya,500,100% 
+Dr. P Madhu Rao,Ayurveda,14,Pune,"Pimpri-Chinchwad,",Sushrut Piles Clinic,500,100% 
+Dr. Yogesh Kutte,Ayurveda,13,Pune,"Pimple Saudagar,",Aarogyavedh Ayurved & Panchakarma Clinic,500,95% 
+Dr. Shailesh Phalle,Ayurveda,11,Pune,"Kharadi,",Dr. Phalle's Ayusanjivani Speciality Clinic And Panchakarma Centre,350,

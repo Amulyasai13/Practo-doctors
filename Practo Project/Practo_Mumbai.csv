@@ -1,0 +1,31 @@
+Doctor_name,Specialization,Experience,City_name,Area,Hospital_name,Consultation_fee,Recommendation
+Dr. Rupesh Singh,Homoeopath,23,Mumbai,"Mira Road,",Dr. Singh's Advanced Homoeopathy for Cancer Kidney,700,95% 
+Dr. Bhavesh Acharya,Homoeopath,33,Mumbai,"Andheri East,",Global Homoeopathy and Esthetiques Clinic,1500,98% 
+Dr. P M Bhanej,Homoeopath,53,Mumbai,"Malad West,",Shri Laxmi Homeopathic Clinic,700,91% 
+Dr. Hitesh Shah,Homoeopath,34,Mumbai,"Kandivali West,","Dr. Hitesh Shah's ""Sexology, Stress Management & Counselling Clinic""",1500,99% 
+Dr. Kukreja A. Kalani,Homoeopath,25,Mumbai,"Powai,",Kent Homeopathy Clinic,500,98% 
+Dr. Amit Vora,Homoeopath,18,Mumbai,"Bhandup West,",Homoeopathic Clinic,1000,96% 
+Dr. Jagat Shah,Homoeopath,20,Mumbai,"Borivali West,",Total Health Care,800,95% 
+Dr. Rajiv Bhanej,Homoeopath,21,Mumbai,"Malad West,",Shri Laxmi Homeopathic Clinic,700,96% 
+Dr. Prakash Kumar Jha,Homoeopath,24,Mumbai,"Mira Road,",Dr Batra's Positive Health Clinic Pvt Ltd,450,92% 
+Dr. Rajesh D Rambhia,Homoeopath,31,Mumbai,"Mulund West,",Dr. Rambhia's Homoeopathic Clinic,600,98% 
+Dr. Chaya,Ayurveda,17,Bangalore,"Gottigerre,",Serenity Wellness Institute,1200,97% 
+Dr. Krishna Kumar,Ayurveda,14,Bangalore,"BTM Layout 2nd Stage,",Keva Ayurveda Healthcare Pvt Ltd,400,97% 
+Dr. Tanmaya,Ayurveda,14,Bangalore,"Marathahalli,",Siddhanta Ayurveda,400,95% 
+Dr. Saritha Nair,Ayurveda,33,Bangalore,"Hebbal,",Pranavam Ayurvedic Treatment Centre,600,90% 
+Dr. Vinay,Ayurveda,13,Bangalore,"Basavanagudi,",Varaprada Ayurvedic Centre,300,99% 
+Dr. Phanindra V V,Ayurveda,14,Bangalore,"Banashankari,",Narayana Ayurveda Kuteeram,400,99% 
+Dr. Chetali Samant,Ayurveda,21,Bangalore,"Malleswaram,",Ayushya Ayurcare Clinic,1000,100% 
+Dr. Poornima Kasaragod,Ayurveda,34,Bangalore,"Banaswadi,",Healing Touch Centre For Ayurveda & Yoga,400,98% 
+Dr. Smitha Saikumar,Ayurveda,14,Bangalore,"Basaveshwaranagar,",Aayu Saamya Clinic,1000,100% 
+Dr. Rachana Ghatol-Shetty,Ayurveda,22,Bangalore,"Panathur,",Nurture Multispeciality Clinic,500,97% 
+Dr. Sridevi Anantharaman,General Physician,22,Chennai,"Vanagaram,",Apollo Speciality Hospital,800,100% 
+Dr. T. Vijay,General Physician,24,Chennai,"Mogappair East,",Dr. Vijay's Hospital,400,100% 
+Dr. T K Shanmugaraj,General Physician,30,Chennai,"Vanagaram,",Apollo Speciality Hospital,800,nan
+Dr. Vinod Prem Anand,General Physician,22,Chennai,"Adyar,",Fortis Malar Hospital,700,100% 
+Dr. Pavithra Thamizharasan,General Physician,10,Chennai,"Perumbakkam,",Gleneagles Global Health City,500,100% 
+Dr. Raj Madhangi,General Physician,9,Chennai,"Alwarpet,",Apollo Spectra Hospital,700,100% 
+Dr. Prof. S. Subramanian,General Physician,56,Chennai,"Chetpet,",VS Hospitals,2000,95% 
+Dr. Thomas George,General Physician,44,Chennai,"KK Nagar,",Chennai Medical Centre,800,92% 
+Dr. Mythili Rajgopalan,General Physician,33,Chennai,"Alwarpet,",Apollo Spectra Hospital,700,67% 
+Dr. Venkatraman K,General Physician,12,Chennai,"Perumbakkam,",Gleneagles Global Health City,800,100% 

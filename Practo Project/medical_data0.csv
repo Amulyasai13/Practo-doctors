@@ -1,0 +1,71 @@
+,Doctor_name,Specialization,Experience,City_name,Area,Hospital_name,Consultation_fee,Recommendation
+0,Dr. M. R. Pujari,Dentist,16,Bangalore,"Basavanagudi,",32 Smiles Multispeciality Dental Clinic,200,96% 
+1,Dr. Krishnanand,Dentist,11,Bangalore,"Old Airport Road,",Royal Smiles Multi Speciality Dental and Facial Aesthetics Centre,200,100% 
+2,Dr. Nikhar Ravinder,Dentist,20,Bangalore,"Whitefield,",Dentalign,600,99% 
+3,Dr. Pranay,Dentist,12,Bangalore,"Koramangala,",SmileCure Multispeciality Dental Clinic,550,97% 
+4,Dr. Shantipriya Reddy,Dentist,32,Bangalore,"Hebbal,",Manipal Hospital,500,93% 
+5,Dr. Nishanth Shetty,Dentist,11,Bangalore,"Banaswadi,",Imprssns n Exprssns,200,100% 
+6,Dr. Monica Rao,Dentist,12,Bangalore,"HAL 2nd Stage,",Tash-Dent A Multispeciality Dental Care,200,98% 
+7,Dr. Smitha Shetty,Dentist,19,Bangalore,"Malleshpalya,",Smile and Glow Multispeciality Dental Clinic,300,100% 
+8,Dr. Geeta Shreekar,Dentist,38,Bangalore,"Koramangala 5 Block,",Aesthetic Dental Care,300,93% 
+9,Dr. Bipin Chandra Reddy,Dentist,22,Bangalore,"Kalyan Nagar,",Tooth Affair,300,96% 
+10,Dr. Vidya Muralidhar,Gynecologist/Obstetrician,13,Bangalore,"Jayanagar 4 Block,",Maathrika Women's Speciality Clinic,400,98% 
+11,Dr. Phani Madhuri,Gynecologist/Obstetrician,19,Bangalore,"Jayanagar,",MAK Speciality Health Center,700,95% 
+12,Dr. Radha S Rao,Gynecologist/Obstetrician,23,Bangalore,"Sarjapur Road,",Apollo Cradle & Children’s Hospital,700,98% 
+13,Dr. Brunda Channappa,Gynecologist/Obstetrician,32,Bangalore,"Jayanagar,",Cloudnine Hospital - Jayanagar,850,89% 
+14,Dr. Chitra Ramamurthy,Gynecologist/Obstetrician,42,Bangalore,"Marathahalli,",Apollo Hospital,850,94% 
+15,Dr. Basavaraj  Devarashetty,Gynecologist/Obstetrician,25,Bangalore,"Marathahalli,",Vishvas Fertility and Gynaecology Centre,700,98% 
+16,Dr. Vidyamani Boriah,Gynecologist/Obstetrician,52,Bangalore,"Yeshwanthpur,",Sagar Chandramma Hospitals,600,91% 
+17,Dr. Deepthi RK Shashidhar,Gynecologist/Obstetrician,15,Bangalore,"JP Nagar 8 Phase,",First Care Clinic,600,98% 
+18,Dr. Deepak V Rao,Gynecologist/Obstetrician,31,Bangalore,"Sahakaranagar,",Motherhood Hospital,700,98% 
+19,Dr. Mala Prakash,Gynecologist/Obstetrician,37,Bangalore,"Jayanagar 5 Block,",Apollo Hospital,850,94% 
+20,Dr. Anusha N D,General Physician,11,Bangalore,"Indiranagar,",Kasper Multispecialty Clinic,800,100% 
+21,Dr. S M Fayaz,General Physician,11,Bangalore,"Whitefield,",Kinder Women's Hospital and Fertility Centre,600,98% 
+22,Dr. Shivaram HR,General Physician,21,Bangalore,"Kanakpura Road,",Viveks Multi Speciality Clinic & Diagnostics,600,96% 
+23,Dr. Soumya Y S,General Physician,24,Bangalore,"Uttarahalli,",Soukhya Family Clinic,500,98% 
+24,Dr. Tharanath S,General Physician,10,Bangalore,"Sahakaranagar,",NCD Clinics,550,99% 
+25,Dr. Prathibha,General Physician,14,Bangalore,"Kothanur,",Sai Krupa Clinic,350,100% 
+26,Dr. P. Suprabha,General Physician,34,Bangalore,"Whitefield,",Cosmo Clinic & Diagnostic Centre,450,95% 
+27,Dr. Malathi Ramesh,General Physician,30,Bangalore,"HSR Layout,",Dr. Mercy's  Clinic,400,98% 
+28,Dr. Narendra Rao,General Physician,45,Bangalore,"Kalkere,",Vibrant Life Medical & Wellness Clinic,650,96% 
+29,Dr. Prashant Dinesh,General Physician,20,Bangalore,"Indiranagar,",Kasper Multispecialty Clinic,600,99% 
+30,Dr. Vani M,Dermatologist,27,Bangalore,"JP Nagar,",S. S. Skin And Surgical Centre,500,97% 
+31,Dr. Janet Alexander Castelino,Dermatologist,29,Bangalore,"Jayanagar 9 Block,",DermaZeal Clinic,1000,92% 
+32,Dr. Rohini Krishnamoorthy,Dermatologist,36,Bangalore,"JP Nagar 2 Phase,",Fortis Hospital,600,91% 
+33,Dr. Chandrashekara Aithal,Dermatologist,32,Bangalore,"Yeshwanthpur,",Skin Hair & Cosmetology Clinic,500,86% 
+34,Dr. S C Rajendran,Dermatologist,43,Bangalore,"Indiranagar,",Vydehi Super Speciality Hospital(Mallya Hospital),800,68% 
+35,Dr. Sohandas Shetty B,Dermatologist,25,Bangalore,"MG Road,",Vijaya Medical Centre,450,96% 
+36,Dr. Juvita Rasquinha,Dermatologist,17,Bangalore,"Koramangala 7 Block,","Dr. Juvita's Aesthetics Skin, Hair and Cosmetology Clinic",500,91% 
+37,Dr. Veena Rao,Dermatologist,23,Bangalore,"Hebbal,",Oliva Skin And Hair Clinic,600,96% 
+38,Dr. Jyothi Menon,Dermatologist,21,Bangalore,"Kengeri,",Oliva Skin & Hair Clinic,600,96% 
+39,Dr. Yogeesh H R,Dermatologist,29,Bangalore,"HSR Layout,",Akshatha Skin And Hair Care Centre,800,95% 
+40,Dr. Sriram Nathan,Ear-Nose-Throat,20,Bangalore,"Whitefield,",Apollo Cradle & Children’s Hospital,800,94% 
+41,Dr. Shantala M.N,Ear-Nose-Throat,23,Bangalore,"Jayanagar 9 Block,",Manipal Hospital,650,99% 
+42,Dr. P Harihara Murthy,Ear-Nose-Throat,31,Bangalore,"Koramangala 5 Block,",Apollo Spectra Hospitals,600,95% 
+43,Dr. Manjunath MK,Ear-Nose-Throat,16,Bangalore,"Yeshwanthpur,",Manipal Hospitals Yeshwanthpur,950,87% 
+44,Dr. Sreenivasa Murthy T. M,Ear-Nose-Throat,22,Bangalore,"Yeshwanthpur,",Manipal Hospitals Yeshwanthpur,950,90% 
+45,Dr. Sampath Chandra Prasad Rao,Ear-Nose-Throat,21,Bangalore,"Koramangala 5 Block,",Apollo Spectra Hospitals,1000,92% 
+46,Dr. Satish Nair,Ear-Nose-Throat,29,Bangalore,"Bannerghatta Road,",Apollo Hospital,1000,90% 
+47,Dr. Pradeep Hosamani,Ear-Nose-Throat,21,Bangalore,"Seshadripuram,",Apollo Hospitals,740,88% 
+48,Dr. Shruti Manjunath,Ear-Nose-Throat,12,Bangalore,"Indiranagar,",Apollo Clinic,650,99% 
+49,Dr. Veena Yagna,Ear-Nose-Throat,14,Bangalore,"Kalyan Nagar,",Cavalier Hospital,600,95% 
+50,Dr. Radhika Bhonsle,Homoeopath,22,Bangalore,"JP Nagar 7 Phase,",Anand Homeopathy Multispeciality Clinic,400,92% 
+51,Dr. Sangeetha S,Homoeopath,11,Bangalore,"Koramangala,",Raghav's Multispecility Homeopathy Clinic,200,96% 
+52,Dr. Gayathri B N,Homoeopath,15,Bangalore,"Indiranagar,",Savi Bindu Homoeopathy and Aesthetics clinic,1000,100% 
+53,Dr. Rajeshwari Dharani,Homoeopath,25,Bangalore,"Malleswaram,",Chandra Homeo Clinic,500,98% 
+54,Dr. Amarjeeth Chillergikar,Homoeopath,13,Bangalore,"Indiranagar,",Homeosquare Homeopathy,300,97% 
+55,Dr. Sanjay Panicker,Homoeopath,26,Bangalore,"HSR Layout,",Amrita Homeopathy,400,92% 
+56,Dr. Leema,Homoeopath,21,Bangalore,"Malleswaram,",Arogyaa Homoeo Super Specialty Clinic for Children & Women,500,98% 
+57,Dr. Zadika Saeed P S,Homoeopath,8,Bangalore,"Indiranagar,",Maruthi Homoeo Hall,350,100% 
+58,Dr. Suvarna Patil,Homoeopath,9,Bangalore,"HSR Layout,",Anamay Homoeopathy,499,97% 
+59,Dr. Shreekant Shivgond,Homoeopath,10,Bangalore,"Banashankari 2nd Stage,",Homeosquare Homeopathy,300,100% 
+60,Dr. Saritha Nair,Ayurveda,33,Bangalore,"Banashankari,",Pranavam Ayurvedic Treatment Centre,600,90% 
+61,Dr. Shambulingaiah S. Hiremath,Ayurveda,37,Bangalore,"BTM Layout,",Shree  Dhanvantari Ayurveda Hospital,250,98% 
+62,Dr. Poornima Kasaragod,Ayurveda,34,Bangalore,"BTM Layout 2nd Stage,",Healing Touch Centre For Ayurveda & Yoga,400,98% 
+63,Dr. Tanmaya,Ayurveda,14,Bangalore,"Marathahalli,",Siddhanta Ayurveda,400,95% 
+64,Dr. M.B. Gayathri,Ayurveda,29,Bangalore,"Basavanagudi,",Ayurcentral,350,99% 
+65,Dr. Geetha B,Ayurveda,37,Bangalore,"Whitefield,",Shrinidhi Clinic,250,100% 
+66,Dr. Chaitralaxmi.K,Ayurveda,14,Bangalore,"Malleswaram,",Shrirama Ayur Clinic,200,100% 
+67,Dr. Suma,Ayurveda,22,Bangalore,"Banaswadi,",Ayush Ayurvedic Therapy Centre,400,100% 
+68,Dr. Deepika,Ayurveda,13,Bangalore,"Basaveshwaranagar,",Keva Ayurveda,400,98% 
+69,Dr. Sharad Kulkarni,Ayurveda,8,Bangalore,"Kasturi nagar,",Health - e,500,99% 

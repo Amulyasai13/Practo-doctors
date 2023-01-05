@@ -1,0 +1,71 @@
+,Doctor_name,Specialist,Experience,City_name,Area,Hospital_name,Consultation_fee,Recommendation
+0,Dr. Kalpana Aggrawal,Gynecologist/Obstetrician,19,Delhi,"Dwarka,",Angel Mother And Child Clinic,500,91%
+1,Dr. Anuradha Dakour,Gynecologist/Obstetrician,18,Delhi,"Lajpat Nagar,",Motherhood Clinic,500,97%
+2,Dr. Jyoti Bhaskar,Gynecologist/Obstetrician,34,Delhi,"Patparganj,",Cloudnine Hospitals,1100,99%
+3,Dr. Samvedna Sindwani,Gynecologist/Obstetrician,13,Delhi,"Vikas Puri,",Dr. Samvedna Sindwani Clinic,500,97%
+4,Dr. Meghana A,Gynecologist/Obstetrician,14,Delhi,"Vasant Kunj,",Matritva Women's Clinic,650,99%
+5,Dr. Sheetal Sachdeva,Gynecologist/Obstetrician,21,Delhi,"Pitampura,",Nest Gynae & Ortho Speciality Clinic,800,98%
+6,Dr. Pratibha Gupta,Gynecologist/Obstetrician,21,Delhi,"Janakpuri,",Healing Hands PG Gynaecology & Urology Center,600,95%
+7,Dr. Anita K Jain,Gynecologist/Obstetrician,23,Delhi,"Paschim Vihar,",Dr. Anita's Mother And Child Clinic,600,98%
+8,Dr. Yashica Gudesar,Gynecologist/Obstetrician,23,Delhi,"Dwarka Sector 6,",Manipal Hospital,900,95%
+9,Dr. Preeti Tahilyani,Gynecologist/Obstetrician,20,Delhi,"Dwarka,",Cherish Mother & Child Care  Clinic,1000,100%
+0,Dr. Ravindra Ratolikar,Dentist,39,Hyderabad,"Narayanguda,",Dr. Ravindra Ratolikar's Dental Clinic,500,98%
+1,Dr. Venkatesh,Dentist,17,Hyderabad,"Srinagar Colony,",VDentis Dental Care,500,97%
+2,Dr. Sudha Chitumalla,Dentist,23,Hyderabad,"Banjara Hills,",Tooth Needs Speciality Dental Care,400,100%
+3,Dr. M Sridhar,Dentist,22,Hyderabad,"Kondapur,",Dental 360,300,99%
+4,Dr. M. S. Sushma Susik,Dentist,31,Hyderabad,"Mehdipatnam,",Brite Smiles Dental Clinic,300,98%
+5,Dr. Yugandhar,Dentist,20,Hyderabad,"KPHB,",National Dental Care,300,96%
+6,Dr. K Sravani Reddy,Dentist,11,Hyderabad,"Karkhana,",SmilenGlow Dental and Skin Hospital,300,98%
+7,Dr. M.Manjula,Dentist,30,Hyderabad,"Padmarao Nagar,",Teethmate Speciality Dental Clinic,500,97%
+8,Dr. Deepesh Singh,Dentist,19,Hyderabad,"Kondapur,",Giggles Dental Care,500,99%
+9,Dr. Seetharam Kumar D,Dentist,26,Hyderabad,"Nizampet,",Cosmedent Speciality Dental Clinic,500,99%
+0,Dr. Rajanshu Tiwari,General Physician,12,Mumbai,"Chembur,",Dr. Tiwari's Clinic,800,93%
+1,Dr. Vasudev,General Physician,23,Mumbai,"Bhandup West,",Liver Gastro Endoscopy Centre,1700,87%
+2,Dr. Samvaad Shetty,General Physician,10,Mumbai,"Andheri East,",Dr.Samvaad Shetty's Clinic,1000,100%
+3,Dr. Kalpana B Tiwari,General Physician,11,Mumbai,"Chembur,",Dr. Tiwari's Clinic,600,100%
+4,Dr. Sanjay Shah,General Physician,37,Mumbai,"Mulund West,",Fortis Hospital,1500,87%
+5,Dr. Umakant V. Ragte,General Physician,46,Mumbai,"Mumbai Central,",Kalyan Clinic,550,75%
+6,Dr. Alka Dilip Bhedi,General Physician,44,Mumbai,"Mulund West,",Fortis Hospital,1500,100%
+7,Dr. Pradip Padamsi Shah,General Physician,42,Mumbai,"Mulund West,",Fortis Hospital,1500,69%
+8,Dr. Ram Krishna Modi,General Physician,44,Mumbai,"Mulund West,",Fortis Hospital,1500,69%
+9,Dr. Pankaj Mistry,General Physician,40,Mumbai,"Vileparle East,",Keep Fit Clinic,2000,98%
+0,Dr. Vijay Singhal,Dermatologist,17,Delhi,"Punjabi Bagh,",Zenith Skin Hair & Dental Centre,800,93%
+1,Dr. Hemant Sharma,Dermatologist,47,Delhi,"Pusa Road,",BLK-Max Super Speciality Hospital,1500,96%
+2,Dr. Sirisha Singh,Dermatologist,28,Delhi,"Greater Kailash Part 1,",SCI International Hospital,1500,98%
+3,Dr. A J Kanwar,Dermatologist,51,Delhi,"Greater Kailash Part 1,",Dr AJ Kanwar Skin Clinic,1500,95%
+4,Dr. Nipun Jain,Dermatologist,25,Delhi,"Dwarka,",Aura Skin Cosmetology Clinic,700,98%
+5,Dr. Deepti  Shrivastava,Dermatologist,27,Delhi,"Anand Vihar,",Skin Hair & You,800,95%
+6,Dr. Nidhi Rohatgi,Dermatologist,27,Delhi,"Vasant Kunj,",Fortis Flt. Lt. Rajan Dhall Hospital,1500,100%
+7,Dr. Richa Sharma,Dermatologist,25,Delhi,"Dwarka,",Twacha Skin Clinic,1500,96%
+8,Dr. Shruti Gupta,Dermatologist,12,Delhi,"Kamla Nagar,",SKINOS,1000,99%
+9,Dr. Vinay Singh,Dermatologist,27,Delhi,"Pitampura,",Vibrance Skin,1400,92%
+0,Dr. Sampurna Ghosh,Ear-Nose-Throat,12,Hyderabad,"Hitech City,",Medicover Hospitals,500,98%
+1,Dr. M M Shareef,Ear-Nose-Throat,24,Hyderabad,"Madhapur,",Dr Shareef's ENT Clinic,600,96%
+2,Dr. Mahesh.D,Ear-Nose-Throat,8,Hyderabad,"Attapur,",Kakatiya ENT Clinic,400,95%
+3,Dr. Ranbeer Singh,Ear-Nose-Throat,37,Hyderabad,"Himayat Nagar,",SMS ENT And Surgical Clinic,900,95%
+4,Dr. Sushmitha,Ear-Nose-Throat,27,Hyderabad,"Ameerpet,",Aster Prime Hospital,600,95%
+5,Dr. Kranthi Paladugu,Ear-Nose-Throat,17,Hyderabad,"Kukatpally,",Kranthi ENT & Allergy Clinic,400,85%
+6,Dr. Md. Naseeruddin,Ear-Nose-Throat,8,Hyderabad,"Tolichowki,",ENT Family Care Clinic,400,99%
+7,Dr. Shakuntala Ghosh,Ear-Nose-Throat,22,Hyderabad,"Chaitanyapuri,",Sri Rama ENT Care Center,700,95%
+8,Dr. Sathish Kumar S,Ear-Nose-Throat,16,Hyderabad,"Miyapur,",Korum ENT Superspeciality Centre,500,92%
+9,Dr. D.Vidyasagar,Ear-Nose-Throat,21,Hyderabad,"Secunderabad,",Apollo Hospital,800,99%
+0,Dr. Satish Erra,Homoeopath,13,Hyderabad,"Dilsukhnagar,",Dr. Satish Erra's Homeopathy Clinic,500,98%
+1,Dr. Ravinder Raju,Homoeopath,24,Hyderabad,"Kukatpally,",Positive Homeopathy,300,71%
+2,Dr. B.Suresh Buddha,Homoeopath,16,Hyderabad,"Kukatpally,",Positive Homeopathy,300,nan
+3,Dr. Panchagnula Satyanarayana Murthy,Homoeopath,29,Hyderabad,"Kachiguda,",Positive Homeopathy,300,86%
+4,Dr. G.B.Chalam,Homoeopath,14,Hyderabad,"Chanda Nagar,",HEAAL Homeopathy Clinic,300,100%
+5,Dr. Sandhya,Homoeopath,19,Hyderabad,"Manikonda,",Unique Homeopathy and Diet Clinic,500,99%
+6,Dr. Vijendra Reddy,Homoeopath,19,Hyderabad,"Kukatpally,",Positive Homeopathy,300,97%
+7,Dr. Dubashi Ramesh,Homoeopath,41,Hyderabad,"Trimulgherry,",Dr.Dubashi Ramesh Homeopathy,300,75%
+8,Dr. Chetan Raj,Homoeopath,11,Hyderabad,"Begumpet,",Dr. Chetan's Homeo Clinics,51,97%
+9,Dr. Chaitanya,Homoeopath,14,Hyderabad,"Kachiguda,",Positive Homeopathy,300,98%
+0,Dr. S Sarangapani,Ayurveda,42,Hyderabad,"Erragadda,",Sai Bharadwaja Advanced Ayurveda Hospital,500,99%
+1,Dr. Anupama Uppuluri,Ayurveda,23,Hyderabad,"Bachupally,",Snigdha Ayurvedic Hospital,500,100%
+2,Dr. Rajya Lakshmi,Ayurveda,26,Hyderabad,"Kondapur,",Ayurkalpa,500,100%
+3,Dr. Priti Thakre,Ayurveda,20,Hyderabad,"KPHB,",Chaudhari Clinic-Ayurvedic Infertility Treatment Center,500,100%
+4,Dr. Bindu Menon,Ayurveda,20,Hyderabad,"Jubilee Hills,",Apollo Hospitals,1000,97%
+5,Dr. Mallikarjun Eleri,Ayurveda,10,Hyderabad,"Lingampally,",Ayu Suraksha Ayurveda & Ano Rectal Care Center,300,100%
+6,Dr. M. Narasimha,Ayurveda,23,Hyderabad,"Ameerpet,",S.B. Ayurvedic Speciality Clinic,500,89%
+7,Dr. Alivelu Manga,Ayurveda,24,Hyderabad,"Himayat Nagar,",JIVA Ayurveda,299,93%
+8,Dr. S Mahesh Kumar,Ayurveda,13,Hyderabad,"KPHB,",Sri Veda Sushruta Ayurveda Hospital,400,100%
+9,Dr. Rashmi BV,Ayurveda,19,Hyderabad,"Erragadda,",Charaka Ayurveda,500,100%
